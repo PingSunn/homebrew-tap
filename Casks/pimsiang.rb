@@ -1,6 +1,6 @@
 cask "pimsiang" do
-  version "0.1.0"
-  sha256 "67de0a7b6d8e70024ebe96ef0835200e458e1b6fa6304140fb56e51c52e535de"
+  version "0.1.1"
+  sha256 "afb7249d2144c821cf93165ba276d11cac6ea8f5ab91d64388f69d0caf2416c3"
 
   url "https://github.com/PingSunn/pimsiang/releases/download/v#{version}/PimSiang-#{version}-arm64.zip"
   name "PimSiang"
